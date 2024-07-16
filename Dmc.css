@@ -611,6 +611,7 @@ footer {
     text-underline-position: below;
     cursor: pointer;
 }
+
 .footersection h5 .h:hover {
     color: rgb(74, 78, 93);
 }
