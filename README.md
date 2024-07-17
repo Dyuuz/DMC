@@ -1,3 +1,3 @@
 # DMC
-Digital Marketing Company
+Digital Marketing Company.
 Elevating Data Intelligence.
